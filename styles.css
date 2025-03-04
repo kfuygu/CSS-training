@@ -5,3 +5,23 @@ div {
     text-align: center;
     font-weight: bold;
 }
+
+.exact{
+    background-color: #FFCCCB;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#dos {
+    color: #0096FF;
+    font-size: 36px;
+}
+
+.but {
+   font-size: 24px; 
+}
+
+#quattro {
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: bold;
+}
