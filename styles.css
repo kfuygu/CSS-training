@@ -1,4 +1,4 @@
-div {
+.external {
     background-color: red;
     font-size: 32px;
     color: white;
@@ -22,6 +22,5 @@ div {
 
 #quattro {
     background-color: #90EE90;
-    font-size: 24px;
     font-weight: bold;
 }
